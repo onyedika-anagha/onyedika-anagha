@@ -1,8 +1,10 @@
 ### Hello! My name's Onyedika 👋 👋
 
 I'm full-stack web developer with few years of experience in web design and development.
-I love programming and painting. _same paragraph_.
-I am also open to learning more. _same paragraph_.
+
+I love programming and painting.
+
+I am also open to learning more.
 
 - 📫 Email: paschalanagha@gmail.com
 
@@ -29,6 +31,6 @@ I am also open to learning more. _same paragraph_.
 ### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onyedika-johnpaul-anagha/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](<[url](https://twitter.com/onyedika_anagha)>)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/onyedika_anagha)
 
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ezeanyimhenry/) -->

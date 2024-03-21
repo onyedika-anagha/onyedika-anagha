@@ -1,6 +1,6 @@
 ### Hello! My name's Onyedika 👋 👋
 
-I'm full-stack web developer with 5 years of experience in web design and development.
+I'm full-stack web developer with over 5 years of experience in web design and development.
 
 I love programming and painting.
 

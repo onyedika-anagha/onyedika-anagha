@@ -8,7 +8,7 @@ I am also open to learning more.
 
 - 📫 Email: paschalanagha@gmail.com
 - 📫 Or Email: contact@onyedikaanagha.dev
-- 🌐 Visit my portfolio: onyedikaanagha.dev(https://onyedikaanagha.dev/)
+- 🌐 Visit my portfolio: [onyedikaanagha.dev](https://onyedikaanagha.dev/)
 
 ### Tech Stacks
 

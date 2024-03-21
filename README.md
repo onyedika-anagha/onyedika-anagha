@@ -7,6 +7,9 @@ I love programming and painting.
 I am also open to learning more.
 
 - 📫 Email: paschalanagha@gmail.com
+  or
+- 📫 Email: contact@onyedikaanagha.dev
+- 🌐 Visit my portfolio: https://onyedikaanagha.dev/
 
 ### Tech Stacks
 

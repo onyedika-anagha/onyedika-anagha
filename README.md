@@ -7,7 +7,7 @@ Hi there! I'm **Onyedika Anagha**, a passionate **Full-Stack Developer** with ov
 ### About Me 👨‍💻
 
 - 🌟 **Bio**: Innovative and versatile software developer ready to bring some serious pizzazz to your projects! I thrive on collaboration, creativity, and problem-solving, making every project an exciting adventure.
-- 💻 **Skills**: Frontend wizardry with React, HTML, CSS, and JavaScript, combined with backend mastery in PHP, Laravel, Node.js, and Express.js.
+- 💻 **Skills**: Frontend wizardry with React, Next.js, HTML, CSS, and JavaScript, combined with backend mastery in PHP, Laravel, Node.js, and Express.js.
 - 🌐 **Database Management**: Proficient in MySQL and MongoDB, ensuring data is structured and accessible.
 - 🎨 **UI/UX Design**: Crafting captivating user experiences with a keen eye for design.
 
@@ -25,6 +25,7 @@ Hi there! I'm **Onyedika Anagha**, a passionate **Full-Stack Developer** with ov
 ### Tech Stacks 🚀
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

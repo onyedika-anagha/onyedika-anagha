@@ -1,38 +1,57 @@
-### Hello! My name's Onyedika 👋 👋
+### Welcome to My World! 🌍
 
-I'm full-stack web developer with over 5 years of experience in web design and development.
+Hi there! I'm **Onyedika Anagha**, a passionate **Full-Stack Developer** with over 6 years of experience. I specialize in crafting dynamic, user-friendly, and visually stunning software solutions. My expertise spans both frontend and backend development, ensuring seamless and efficient applications.
 
-I love programming and painting.
+---
 
-I am also open to learning more.
+### About Me 👨‍💻
 
-- 📫 Email: paschalanagha@gmail.com
-- 📫 Or Email: contact@onyedikaanagha.dev
-- 🌐 Visit my portfolio: [onyedikaanagha.dev](https://onyedikaanagha.dev/)
+- 🌟 **Bio**: Innovative and versatile software developer ready to bring some serious pizzazz to your projects! I thrive on collaboration, creativity, and problem-solving, making every project an exciting adventure.
+- 💻 **Skills**: Frontend wizardry with React, HTML, CSS, and JavaScript, combined with backend mastery in PHP, Laravel, Node.js, and Express.js.
+- 🌐 **Database Management**: Proficient in MySQL and MongoDB, ensuring data is structured and accessible.
+- 🎨 **UI/UX Design**: Crafting captivating user experiences with a keen eye for design.
 
-### Tech Stacks
+---
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![React js](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge)
+### Services I Offer 🛠️
 
-#### Source Control: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- **Full Stack Development**: From e-commerce stores to blogs and company websites, I design and develop dynamic websites with admin dashboards for easy content management.
+- **Web Design and Templates**: Responsive and seamless designs tailored for all devices.
+- **Mobile App Development**: Custom mobile applications to meet unique needs.
+- **Graphic & UI Designs**: Quality designs that enhance product reception and present professional brand aesthetics.
 
-#### Databases:
+---
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FCBA03?style=for-the-badge&logo=Firebase&logoColor=white)
+### Tech Stacks 🚀
 
-#### IDEs: ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Connect with Me
+---
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onyedika-johnpaul-anagha/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/onyedika_anagha)
+### Connect with Me 🌐
 
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ezeanyimhenry/) -->
+- 📫 **Email**: paschalanagha@gmail.com
+- 📫 **Professional Email**: contact@onyedikaanagha.dev
+- 🌐 **Portfolio**: [onyedikaanagha.dev](https://onyedikaanagha.dev/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onyedika-johnpaul-anagha-667a371a1)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/onyedika_anagha)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/onyedika-anagha)
+[![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/@quiescent)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100004358628570&_rdc=1&_rdr)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/IYYSG6AIZKLTK1)

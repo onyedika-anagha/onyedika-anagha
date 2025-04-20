@@ -10,6 +10,7 @@ Hi there! I'm **Onyedika Anagha**, a passionate **Full-Stack Developer** with ov
 - 💻 **Skills**: Frontend wizardry with React, Next.js, HTML, CSS, and JavaScript, combined with backend mastery in PHP, Laravel, Node.js, and Express.js.
 - 🌐 **Database Management**: Proficient in MySQL and MongoDB, ensuring data is structured and accessible.
 - 🎨 **UI/UX Design**: Crafting captivating user experiences with a keen eye for design.
+<!--
 
 ---
 
@@ -18,7 +19,7 @@ Hi there! I'm **Onyedika Anagha**, a passionate **Full-Stack Developer** with ov
 - **Full Stack Development**: From e-commerce stores to blogs and company websites, I design and develop dynamic websites with admin dashboards for easy content management.
 - **Web Design and Templates**: Responsive and seamless designs tailored for all devices.
 - **Mobile App Development**: Custom mobile applications to meet unique needs.
-- **Graphic & UI Designs**: Quality designs that enhance product reception and present professional brand aesthetics.
+- **Graphic & UI Designs**: Quality designs that enhance product reception and present professional brand aesthetics. -->
 
 ---
 
